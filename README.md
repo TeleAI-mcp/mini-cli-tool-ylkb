@@ -1,2 +1,3 @@
-# mini-cli-tool-ylkb
-Automated issue comment bot repository
+# Mini Cli Tool Ylkb
+
+Automated issue comment bot repository.
